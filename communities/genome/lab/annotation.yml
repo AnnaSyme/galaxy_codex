@@ -289,11 +289,9 @@ tabs:
                   label: Masked genome
                 - datatypes:
                     - fasta
-                  label: >
+                  label: |
                     Outputs from TSI convert formats workflow
-                    (<code>*.cdna</code>,
-                    <code>*.pro</code>,
-                    <code>*.dat</code>)
+                    (<code>*.cdna</code>, <code>*.pro</code>, <code>*.dat</code>)
               button_link: "{{ galaxy_base_url }}/workflows/trs_import?trs_server=workflowhub.eu&run_form=true&trs_id=881"
               view_link: https://workflowhub.eu/workflows/881
               view_tip: View in WorkflowHub
