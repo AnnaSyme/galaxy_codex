@@ -286,7 +286,7 @@ tabs:
                 - datatypes:
                     - fasta
                   label: Assembly
-              button_link: "{{ galaxy_base_url }}/workflows/trs_import?trs_server=dockstore.org&trs_id=%23workflow/github.com/iwc-workflows/Assembly-decontamination-VGP9/main:v0.1"
+              button_link: "{{ galaxy_base_url }}/workflows/trs_import?trs_server=dockstore.org&trs_id=%23workflow/github.com/iwc-workflows/Assembly-decontamination-VGP9/main"
               view_link: https://dockstore.org/workflows/github.com/iwc-workflows/Assembly-decontamination-VGP9/main:v0.1
               view_tip: View in WorkflowHub
               button_tip: Import to Galaxy Australia
