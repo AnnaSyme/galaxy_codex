@@ -353,7 +353,7 @@ tabs:
                   label: Assembly
               buttons:
                 - icon: run
-                  link: "{{ galaxy_base_url }}/workflows/trs_import?trs_server=dockstore.org&trs_id=%23workflow/github.com/iwc-workflows/Assembly-decontamination-VGP9/main:v0.1"
+                  link: "{{ galaxy_base_url }}/workflows/trs_import?trs_server=workflowhub.eu&run_form=true&trs_id=%23workflow/workflowhub.eu/workflows/645"
                   tip: Run this workflow in Galaxy {{ site_name }}
                 - icon: view
                   link: https://dockstore.org/workflows/github.com/iwc-workflows/Assembly-decontamination-VGP9/main:v0.1
